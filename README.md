@@ -4,7 +4,7 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: DEVYANI GANGADHAR TAWARE
 
-INTERN ID: CT08JHS
+INTERN ID: CT08JEI
 
 DOMAIN: JAVA PROGRAMMING
 
@@ -30,15 +30,7 @@ Programming Language: Java
 
 Editor Platform: The code can be written and executed in any Java-supported editor, such as:
 
-Eclipse
-
 IntelliJ IDEA
-
-VS Code (with Java extension)
-
-NetBeans
-
-Command Prompt/Terminal (using javac and java commands)
 
 File Handling Tool: The program uses Java's I/O API (java.io.* and java.nio.file.*) for file reading, writing, and modification.
 
@@ -59,4 +51,4 @@ This file handling operation is widely applicable in:
 This fundamental concept is useful for desktop applications, backend services, and embedded systems where file handling is needed for data storage and retrieval.
 
 
-#OUTPUT :
+#OUTPUT : ![Image](https://github.com/user-attachments/assets/d69758cf-9c08-4c2a-b2f2-6596b24ec68f)
